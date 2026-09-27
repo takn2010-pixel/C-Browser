@@ -10,6 +10,10 @@ WebKitGTKなどの既存ブラウザエンジンに頼らず、HTML/CSSのパー
 - **フォーム入力サポート**: ダブルクリックでテキスト入力ダイアログを起動し、GET/POST送信が可能
 - **DuckDuckGo検索連携**: 検索バーから直接Web検索が可能
 
+## ⚠️ 著作者
+内部ではNOK.Tとなっています。
+著作者は『takn2010-pixel(https://github.com/takn2010-pixel/)』となります
+
 ## 📦 依存ライブラリ (Dependencies)
 ビルドには以下のライブラリが必要です。
 
