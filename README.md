@@ -1,6 +1,6 @@
 # C-Browser 🚀
 
-C言語、GTK+ 3、libcurl、gumbo-parser、libcss を用いて作られた、超軽量（？）自作テキストベースWebブラウザです。  
+C言語、GTK+ 3、libcurl、gumbo-parser、libcss を用いて作られた、超軽量（※開発者の感想）自作テキストベースWebブラウザです。  
 WebKitGTKなどの既存ブラウザエンジンに頼らず、HTML/CSSのパースからGtkTextBufferへのレンダリングまでを自前で処理しています。 
 
 ## 🌟 特徴
