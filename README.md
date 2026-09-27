@@ -12,7 +12,7 @@ WebKitGTKなどの既存ブラウザエンジンに頼らず、HTML/CSSのパー
 
 ## ⚠️ 著作者
 内部ではNOK.Tとなっています。
-著作者は『takn2010-pixel(https://github.com/takn2010-pixel)』となります
+著作者は『takn2010-pixel( https://github.com/takn2010-pixel )』となります
 
 ## 📦 依存ライブラリ (Dependencies)
 ビルドには以下のライブラリが必要です。
